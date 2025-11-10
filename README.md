@@ -20,27 +20,34 @@ To develop an ATM & Banking System that automates basic banking operations such 
 8. Implementation & Maintenance: Deploy the system and perform regular updates and bug fixes.
 # DIAGRAMS:
 ## USECASE DIAGRAM:
-![UseCaseDiagram1](https://github.com/user-attachments/assets/9934eed2-ef00-44a3-b996-332fba29d5a4)
+![1](https://github.com/user-attachments/assets/9258617c-9a10-45c3-9720-25c81f52ca67)
+
 
 
 ## CLASS DIAGRAM:
-![ClassDiagram1](https://github.com/user-attachments/assets/3953583d-8955-4039-a77f-b2827dae3b0f)
+![2](https://github.com/user-attachments/assets/30aba6fd-3ac7-4322-9f81-08c9ffa099c8)
 
 ## ACTIVITY DIAGRAM:
-![ActivityDiagram1](https://github.com/user-attachments/assets/69a6037a-12ed-4515-a4ad-56cfee2fa3bd)
+
+![3](https://github.com/user-attachments/assets/5e4aa71d-c8e1-4247-87f9-9ac1ead87685)
+
 
 
 ## SEQUENCE DIAGRAM:
-![SequenceDiagram1](https://github.com/user-attachments/assets/f408676a-bd7f-470a-a2f1-fb480a1ce3c7)
+
+![4](https://github.com/user-attachments/assets/95eedd6d-aa9e-4df1-bebd-d4c5b6b378a0)
 
 
 ## PACKAGE DIAGRAM:
-![PackageDiagram1](https://github.com/user-attachments/assets/7c06d8c0-0fa6-4f2b-a060-e02980f8e5f8)
+
+![5](https://github.com/user-attachments/assets/44763b97-914c-4b66-97f6-0e69c38cf32d)
+
 
 
 
 ## COMMUNICATION DIAGRAM:
-![CommunicationDiagram1](https://github.com/user-attachments/assets/6dc82bf4-3af6-41f1-84c5-8e9fd7d9a196)
+
+![6](https://github.com/user-attachments/assets/13421c31-4b86-4f8e-8bc8-140066c87b16)
 
 
 # RESULT:
